@@ -16,7 +16,9 @@
 [<img align="left" alt="Node.js" width="26px" src="./docs/nodejs.png" />](https://nodejs.org/en/)
 [<img align="left" alt="Git" width="26px" src="./docs/git-icon.png" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="26px" src="./docs/Octocat.png" />](https://github.com/)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://iterm2.com/)
+[<img align="left" alt="Terminal" width="26px" src="./docs/terminal.png" />](https://iterm2.com/)
+[<img align="left" alt="Apple" width="26px" src="./docs/apple.png" />](https://apple.ca/)
+[<img align="left" alt="Linux" width="26px" src="./docs/linux.png" />](https://www.linux.org/)
 
 <!--
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
