@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I ❤️ Star Wars
 
-### Languages and Tools:
+### Languages, Libraries, and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="./docs/vscode.png" />](https://visualstudio.microsoft.com/)
 [<img align="left" alt="HTML5" width="26px" src="./docs/html5.png" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
@@ -17,6 +17,7 @@
 [<img align="left" alt="Node.js" width="26px" src="./docs/nodejs.png" />](https://nodejs.org/en/)
 [<img align="left" alt="Ruby" width="26px" src="./docs/ruby.png" />](https://www.ruby-lang.org/en/)
 [<img align="left" alt="Rails" height="26px" src="./docs/rails.png" />](https://rubyonrails.org/)
+[<img align="left" alt="PostgreSQL" width="26px" src="./docs/elephant.png" />](https://www.postgresql.org/)
 [<img align="left" alt="Git" width="26px" src="./docs/git-icon.png" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="26px" src="./docs/Octocat.png" />](https://github.com/)
 [<img align="left" alt="Terminal" width="26px" src="./docs/terminal.png" />](https://iterm2.com/)
