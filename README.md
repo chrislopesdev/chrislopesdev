@@ -14,6 +14,7 @@
 [<img align="left" alt="Sass" width="26px" src="./docs/sass.png" />](https://sass-lang.com/)
 [<img align="left" alt="JavaScript" width="26px" src="./docs/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="Node.js" width="26px" src="./docs/nodejs.png" />](https://nodejs.org/en/)
+[<img align="left" alt="Ruby" width="26px" src="./docs/ruby.png" />](https://www.ruby-lang.org/en/)
 [<img align="left" alt="Git" width="26px" src="./docs/git-icon.png" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="26px" src="./docs/Octocat.png" />](https://github.com/)
 [<img align="left" alt="Terminal" width="26px" src="./docs/terminal.png" />](https://iterm2.com/)
