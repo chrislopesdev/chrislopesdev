@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on completing a full-stack bootcamp
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Mongo DB
 - 📫 How to reach me: chrislopes.dev@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I ❤️ Star Wars
